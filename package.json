@@ -1,6 +1,6 @@
 {
   "name": "striplines",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple utility library for removing the first X amount of lines from an inputstream",
   "main": "striplines.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "strip",
     "delete",
     "lines",
+    "line",
     "remove",
     "inputstream"
   ],
