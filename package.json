@@ -12,10 +12,10 @@
   },
   "keywords": [
     "striplines",
-    "deletelines",
-    "delete-lines",
-    "removelines",
-    "remove-lines",
+    "strip",
+    "delete",
+    "lines",
+    "remove",
     "inputstream"
   ],
   "author": "Derek Ellison <derek@blacksquirreldevs.net>",
