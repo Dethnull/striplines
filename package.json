@@ -1,0 +1,27 @@
+{
+  "name": "striplines",
+  "version": "1.0.0",
+  "description": "Simple utility library for removing the first X amount of lines from an inputstream",
+  "main": "striplines.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dethnull/striplines.git"
+  },
+  "keywords": [
+    "striplines",
+    "deletelines",
+    "delete-lines",
+    "removelines",
+    "remove-lines",
+    "inputstream"
+  ],
+  "author": "Derek Ellison <derek@blacksquirreldevs.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dethnull/striplines/issues"
+  },
+  "homepage": "https://github.com/Dethnull/striplines#readme"
+}
