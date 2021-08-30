@@ -8,7 +8,11 @@ function StripLines(numOfLines) {
         return new StripLines(numOfLines);
     }
     Transform.call(this);
-    this._numOfLines = numOfLines || 1;
+    if (typeof numOfLines !== 'number') {
+        this._numOfLines = 1;
+    } else {
+        this._numOfLines = numOfLines;
+    }
     this._removed    = 0;
 }
 
